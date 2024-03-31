@@ -1,0 +1,6 @@
+/* Pour la page index du dossier accueil */
+/* et pour la barre de nav  */
+body {
+    height: 80%;
+    background-color: rgb(72, 66, 66) !important;
+}
