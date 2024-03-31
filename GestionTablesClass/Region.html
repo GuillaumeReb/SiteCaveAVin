@@ -463,22 +463,22 @@
     // Programme PRINCIPAL
     window.addEventListener('load', (event) => {
       //recuperation du header et du footer
-      // let header = new loadHTML("idHeader", "../Header_footer/HEADER.html");
-      // let footer = new loadHTML("idFooter", "../Header_footer/FOOTER.html");
-      // header.load();
-      // footer.load();
+      let header = new loadHTML("idHeader", "../Header_footer/HEADER.html");
+      let footer = new loadHTML("idFooter", "../Header_footer/FOOTER.html");
+      header.load();
+      footer.load();
 
-      fetch("../Header_footer/HEADER.html")
-        .then(response => response.text())
-        .then(html => {
-            document.getElementById("idHeader").innerHTML = html;
-        });
+    //   fetch("../Header_footer/HEADER.html")
+    //     .then(response => response.text())
+    //     .then(html => {
+    //         document.getElementById("idHeader").innerHTML = html;
+    //     });
 
-    fetch("../Header_footer/FOOTER.html")
-        .then(response => response.text())
-        .then(html => {
-            document.getElementById("idFooter").innerHTML = html;
-        });
+    // fetch("../Header_footer/FOOTER.html")
+    //     .then(response => response.text())
+    //     .then(html => {
+    //         document.getElementById("idFooter").innerHTML = html;
+    //     });
 
 
 
