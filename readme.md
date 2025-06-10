@@ -10,20 +10,20 @@
 
 ### 🔗 Lien GitHub
 
-📂 [Voir le code sur GitHub](https://github.com/GuillaumeReb/Voitures_Et_Clients)
+📂 [Voir le code sur GitHub](https://github.com/GuillaumeReb/SiteCaveAVin)
 
 ### 🚀 Démo en ligne
 
-🌐 [Voir la démo en ligne](https://guillaume-rebourgeon.fr/voituresEtClients/Voitures%20Js%20ES6/Exo_complet_voitures_npm.html)
+🌐 [Voir la démo en ligne](https://guillaume-rebourgeon.fr/ProjetCave/GestionTablesClass/Catalogue.html)
 
 ### 🛠️ Technologies utilisées
 
 - **Frontend :** HTML, CSS, Bootstrap, Javascript
 - **Outils & services :**
-  Requêtes AJAX
-  API REST personnalisée (afpafabrice.space)
-  NPM pour la gestion des dépendances
-  SweetAlert2 pour les fenêtres modales élégantes
+  - Requêtes AJAX
+  - API REST personnalisée (afpafabrice.space)
+  - NPM pour la gestion des dépendances
+  - SweetAlert2 pour les fenêtres modales élégantes
 
 ---
 
